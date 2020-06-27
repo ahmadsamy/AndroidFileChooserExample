@@ -1,0 +1,3 @@
+include ':AndroidFileChooser'
+include ':app'
+rootProject.name = "Android File Chooser Example"
